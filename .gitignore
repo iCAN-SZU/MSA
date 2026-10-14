@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# WorkBuddy workspace data
+.workbuddy/
+
+# Training artifacts
+checkpoints/
+logs/
+results/
+*.pth
+*.pt
+*.ckpt
+*.tar
+
+# Dataset
+data/
